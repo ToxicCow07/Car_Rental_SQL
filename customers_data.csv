@@ -1,0 +1,101 @@
+customer_id,name,email,age,gender,city,state
+23242,Gregory Woodard,gtaylor@example.com,63,Female,New Geraldton,IL
+53473,Kristin Gomez,jeffrey32@example.com,31,Female,Port Kathy,ND
+19781,George Johnson,igarcia@example.com,34,Male,Shawmouth,PW
+79766,Dr. Angela Thomas PhD,lkennedy@example.net,69,Female,Armstrongton,IL
+27443,Matthew Cruz,mendozatony@example.com,63,Male,Shannonbury,CO
+51977,Donald Banks,mgutierrez@example.com,21,Male,Hatfieldhaven,DC
+14922,Amanda Mclaughlin,wilsonkatie@example.com,52,Male,Aaronport,AR
+53473,Jade Mccoy,boydgeoffrey@example.com,18,Female,Samanthaton,SD
+21351,Tristan Garcia,brittanyjones@example.org,30,Female,East Nicholastown,CT
+37834,John Holder,nathanielhodges@example.org,57,Female,West Steven,RI
+47160,Tiffany Boyle,kfreeman@example.com,20,Male,North Eric,IN
+20212,Molly Long,jennifer74@example.com,34,Female,Christinaton,ND
+5714,Elizabeth Robinson,fpalmer@example.net,55,Male,North Michael,CA
+80868,James Miller,qschmidt@example.org,42,Male,Andersonmouth,PR
+83444,Mr. Aaron Davies,edavis@example.com,31,Female,Gonzalezport,HI
+52016,Samantha Russell,ihodges@example.org,47,Male,Port Jamie,DE
+4948,Vincent Gomez,sreyes@example.net,25,Male,New Benjaminview,VA
+41687,George Grant,douglas27@example.net,32,Male,West Andreaview,VI
+2056,David Lee,shawn15@example.net,69,Male,Reneefort,NM
+80868,Glen Mendez,jessedrake@example.net,41,Male,Kaylaland,OH
+61594,Patrick Booth,fmata@example.org,41,Female,Weaverville,NY
+53473,Jackson Reed,dtaylor@example.com,58,Male,New Claire,MP
+69020,James Graves,kathleenfrey@example.com,74,Female,Faithside,CT
+92026,Sean Smith,rramos@example.com,23,Male,Ruizchester,OR
+72404,Monica Taylor,sharonlester@example.net,71,Male,East Nicole,MT
+72402,Barbara Nelson,dakota69@example.net,68,Male,Belindaport,AL
+66213,Henry Estrada,mlee@example.org,53,Female,New Christybury,OR
+83444,Lisa Graham,omueller@example.org,34,Female,Kevinchester,AZ
+34668,Chase Davis,willie40@example.org,75,Male,South Darlene,TX
+84530,Monique Mclean,hebertrobert@example.org,67,Female,Daughertyberg,ME
+11335,Danny Lowery,elizabeth68@example.com,21,Female,Lake Karaburgh,IN
+66577,David Wade,haleydaniel@example.org,71,Male,Fishershire,GA
+33268,Michele Edwards,joseph60@example.com,20,Male,Gregoryburgh,VI
+95024,Sarah Yang,susancross@example.com,35,Female,West Elizabeth,RI
+5714,Jeffrey Hill,rchase@example.net,38,Male,Kristinatown,PA
+84629,Gregory Hoffman,bshelton@example.net,42,Female,Tylerland,CO
+72404,Audrey Blankenship,stanley96@example.net,49,Female,Fischerhaven,KY
+93117,Cory Sandoval,katherine43@example.net,31,Male,Lake Matthewton,WY
+83444,Lynn Mills,lopeztimothy@example.net,65,Male,Erikachester,AR
+83444,Beth Thompson,michaeltaylor@example.com,61,Male,Lake Michael,LA
+2781,Sara Foster,kathleenhernandez@example.com,26,Female,Billyshire,FL
+69254,Megan Cox,rossalison@example.net,25,Male,Port Joan,ID
+9972,James Watts,travisstewart@example.com,43,Female,North Jonathanberg,IN
+51977,William Blevins Jr.,fcharles@example.net,70,Male,South Jeffrey,VA
+56873,Brenda Carson,carolinediaz@example.net,72,Male,Port Timothy,OR
+18176,Harry Wheeler,kari42@example.net,29,Male,West Blakefort,AR
+84742,Theresa Lewis,reynoldsanthony@example.com,20,Female,East Kevintown,UT
+90217,Luke Nelson,christopher86@example.net,37,Male,Shawnmouth,ME
+34524,Justin Watkins,christinehopkins@example.com,74,Male,Lake Tyler,NC
+61056,Tara Ortiz,katherine86@example.org,78,Male,New Johnburgh,ME
+2056,Jennifer Cox,jennifer90@example.com,70,Female,Flynnbury,OH
+15197,Carol Stewart,cody46@example.org,20,Male,Harmonview,HI
+56013,Christopher Gonzalez,inorris@example.net,41,Male,Maryshire,MD
+17758,Andre Jenkins,michaellester@example.com,39,Male,Davidhaven,NC
+69878,Briana Greer,michaelle@example.org,30,Female,New Lori,MA
+11335,Cody Nelson,kaitlynbecker@example.net,37,Female,South Nicole,MD
+3634,Miranda Simpson,gbenitez@example.com,79,Male,Chandlerstad,WI
+18176,Laura Lawrence,paultorres@example.org,65,Female,East Dylan,PR
+27443,Benjamin Rich,tmarshall@example.net,40,Male,Sharonhaven,HI
+84742,Scott Gray,gonzalezanna@example.org,33,Female,East Amybury,NE
+29989,Gregory Jones,qholder@example.com,57,Female,New Rachelmouth,NM
+33887,Christina Howell,anthonysawyer@example.net,31,Female,New John,MP
+80868,Melissa Mercado,garcialisa@example.org,74,Male,New Amber,GU
+57433,Daniel Cochran,carneyamy@example.org,31,Male,Deniseshire,CA
+18176,Jeffrey Gray,melissahooper@example.org,40,Female,Floresshire,NM
+79766,Susan Hudson,kimberlymckee@example.com,77,Female,Brownborough,SD
+56873,April Bradley,johnsoncindy@example.com,53,Male,East Sharonchester,AR
+33268,Richard Rivers,vanessa18@example.com,26,Female,Clarkhaven,WA
+27443,Haley Lloyd,thompsonstephanie@example.com,31,Male,Janicetown,WV
+65152,Scott Wilson,kroth@example.com,51,Male,Padillachester,FL
+57433,Christopher Murphy,omyers@example.org,59,Male,South Jamesburgh,VA
+12724,William Sutton,tammy86@example.org,25,Female,Tylertown,VA
+17520,Danielle Fox,smithtracy@example.com,51,Male,Haleytown,NY
+73836,Ellen Pineda,cindyhall@example.com,40,Female,Patrickshire,DE
+44682,Angela King,ogreen@example.com,48,Male,South Alanport,HI
+46762,Ashlee Walker,brandon59@example.net,49,Female,North Dennisborough,MO
+33268,Jennifer Bush,wferguson@example.com,70,Male,South Joe,LA
+25605,Donald Ferrell,danny40@example.net,71,Male,Turnershire,DE
+36498,Jesse Bryant,michael28@example.org,80,Female,Taratown,NH
+65152,Jean Bean,patrickhunter@example.net,49,Male,Jonathanfort,MH
+8628,Bethany Butler,dorothydickerson@example.org,64,Female,Lake Alicia,ND
+56013,Timothy Chavez,wardandrew@example.org,76,Male,Chavezfurt,CA
+91292,Brandon Cruz,zgarcia@example.net,45,Male,Port Julieland,PW
+85004,Eric Stevens,evanscatherine@example.net,64,Female,New Gregoryfort,TX
+44183,Gerald Mora,christinahardin@example.org,33,Female,Brandifurt,MH
+62964,Jessica Foster,jennifer60@example.org,80,Male,Lake William,AL
+59139,Anna Shaffer,pricefred@example.org,78,Female,West Markhaven,OR
+20446,Jamie Weber,xdixon@example.com,45,Male,East Melissa,SC
+2781,Sheryl Peterson,michaelcollins@example.net,72,Female,Daltonton,KS
+8628,Shelly Brown,jamesreed@example.org,65,Male,Jenniferport,OR
+18176,Theresa Best,xchan@example.com,39,Female,Garnerborough,SC
+24974,Curtis King,joshua80@example.net,35,Female,Johnsonmouth,DC
+76840,John Mayer,joyjones@example.org,68,Female,Aprilberg,LA
+66377,James Reed,gnewman@example.com,76,Female,Curtisport,NJ
+24974,Joshua Hicks,peggylloyd@example.org,71,Male,West Melissa,PR
+80868,Mark Buck,carrie43@example.org,56,Male,Williamschester,NC
+35574,Rebekah Mendoza,jonathan44@example.org,43,Male,East Jonathanshire,MI
+66213,Kimberly Nelson,eruiz@example.net,37,Female,North Janetborough,CA
+27659,Michelle Jackson,heidi90@example.net,25,Male,Port Kimberlyshire,TX
+44183,Olivia Henderson,bondwesley@example.net,53,Female,South Kim,TX

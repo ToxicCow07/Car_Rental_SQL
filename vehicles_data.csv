@@ -1,0 +1,101 @@
+vehicle_id,make,model,year,category,rental_rate_per_day
+26918,"Garcia, Martin and Barnes",Sentra,1998,Truck,219.52
+53939,Mendoza-Brown,Rav4,2006,Sedan,181.23
+73954,Robinson-Stark,Cruze,2002,Hatchback,251.77
+9545,Thomas-Roberts,Camry,2018,Van,218.53
+39997,Tucker LLC,Fusion,1985,Truck,53.48
+26918,Austin LLC,Altima,2016,Van,260.47
+33117,"Mendoza, Harvey and Howard",Explorer,1973,SUV,174.49
+15423,Lawson Ltd,Rav4,1998,Truck,181.53
+91209,Mcbride-Berry,Civic,2015,Truck,158.2
+26726,"Anderson, Baker and Shepard",Sonata,2020,Sedan,138.3
+13380,Noble Ltd,Equinox,2016,SUV,188.4
+11597,"Higgins, Russell and Jones",Rav4,2022,SUV,282.65
+65253,"Hart, Robles and Byrd",Explorer,1994,Truck,121.19
+44687,Carrillo LLC,Corolla,1988,Hatchback,83.58
+11597,"Bell, Hamilton and Ryan",Focus,2006,Truck,187.93
+90431,Price LLC,Rav4,2023,Sedan,104.77
+93919,Parker and Sons,Sonata,1973,Van,67.19
+8054,Lopez Group,Escape,1974,Sedan,76.43
+42111,Donovan-Barber,CR-V,2009,Van,278.05
+40609,Cooper-Hernandez,Accord,1983,Hatchback,185.49
+42111,Conley-Golden,Altima,1971,Sedan,177.92
+32461,Hahn-Moore,Civic,1986,Sedan,214.54
+46719,Ray-Davis,Explorer,2021,Sedan,237.33
+81221,Carter Ltd,Civic,2017,Truck,159.86
+24333,Curry-Miller,Optima,1973,Truck,197.34
+23107,"Jackson, Tapia and Edwards",Rav4,2020,Hatchback,202.4
+28961,"Callahan, Pearson and Jones",Fusion,1980,Hatchback,75.64
+15423,Butler-Mcdaniel,CR-V,2010,SUV,260.55
+80790,Harper-Tran,Impala,2022,SUV,264.54
+40892,"Bailey, Morgan and White",Altima,1994,Van,132.95
+44687,Nguyen-Jackson,Impala,2010,Hatchback,59.96
+16487,Nicholson-Jones,Impala,2023,Sedan,96.14
+97928,Todd-Lewis,Cruze,1975,Van,154.3
+26918,Levy-Rodriguez,Santa Fe,2020,Truck,187.04
+80281,Johnson-Davis,Corolla,1971,Sedan,105.3
+57302,Cox Ltd,CR-V,2014,Hatchback,288.62
+790,Rasmussen Ltd,Camry,1994,Sedan,123.53
+73954,"Ruiz, Brown and Young",Focus,1995,Truck,256.09
+28961,"Jones, Hoffman and Todd",Cruze,2013,Sedan,93.53
+64798,Meyer PLC,Civic,1988,Van,137.93
+96335,"Harrington, Santiago and Watson",Altima,2001,SUV,222.49
+53939,Wheeler-Moore,Escape,1973,Van,151.79
+87485,Wood Group,Fusion,2008,SUV,220.34
+87485,Beasley-Williamson,Malibu,2022,Hatchback,82.19
+49290,"Adams, Jenkins and Wright",Optima,1997,Sedan,174.73
+26348,Bass-Lopez,Sentra,2019,Van,238.63
+63721,Mason-Harrington,Sonata,1984,Van,66.84
+40659,Gonzalez-Calhoun,Civic,1991,Truck,268.64
+83810,Hanson-Johnson,Equinox,2004,Truck,182.31
+39997,"Stone, Stuart and Miller",CR-V,2023,Van,287.71
+2171,Carter-Wade,Optima,2012,Truck,187.89
+90431,"Johnson, Mitchell and Morgan",Fusion,2014,Hatchback,105.45
+83099,"Miles, Huffman and Jordan",Sentra,1999,SUV,160.46
+54039,Anderson-White,Escape,2002,Sedan,160.26
+44687,Heath-Wolfe,Santa Fe,2017,Sedan,140.54
+23107,Monroe Inc,Malibu,1979,Sedan,243.51
+63721,"Cooper, Taylor and Evans",Accord,1986,Van,297
+60632,"Cowan, Jackson and Foster",Malibu,1982,SUV,179.97
+98726,"Green, Vincent and Ochoa",Corolla,1976,SUV,262.18
+49322,Ortega-Miller,CR-V,1999,Sedan,132.72
+90210,Lee Ltd,Focus,2009,Truck,150.51
+25971,Armstrong and Sons,Civic,1991,Van,286.34
+28961,"Baird, Sullivan and Frost",Tucson,1971,Truck,155.23
+2851,White Ltd,CR-V,2005,Truck,132.33
+25971,Hunter Ltd,Sentra,1994,Hatchback,120.78
+9545,"Wright, Garcia and Fields",Cruze,2012,Van,84.96
+64798,Stephens LLC,Santa Fe,1977,Van,289.48
+92870,"Webster, Jacobs and Martin",Explorer,2011,Truck,93.29
+91423,"Beltran, Durham and Torres",Tucson,1999,Hatchback,87.07
+25971,Patterson PLC,CR-V,1991,Truck,267.39
+52819,Smith Ltd,Camry,1997,Hatchback,220.44
+17878,"Richards, Vaughan and Phillips",Sonata,1981,Van,265.24
+35651,Flowers LLC,Sonata,2005,Truck,95.12
+17878,Baldwin-Roberts,Corolla,2023,Sedan,172.35
+99520,Campbell-Gregory,Optima,1971,Sedan,193.39
+44687,Hall PLC,Optima,1970,Van,158.29
+40892,Suarez-Lamb,Tucson,1976,Van,205.24
+77969,Richardson Ltd,CR-V,1984,Hatchback,246.34
+40659,Thompson-Smith,Malibu,2007,Van,159.83
+26348,"Hernandez, Owen and Perez",Sonata,2007,Sedan,138.11
+2851,"Hutchinson, Johnson and Conner",Focus,1972,SUV,288.03
+88793,Holt-Hall,Corolla,2023,SUV,117.5
+73134,Meadows-Clark,Camry,1993,Hatchback,164.95
+64798,"Smith, Anderson and Murphy",Cruze,2006,Hatchback,276.75
+10380,"Stevens, Thomas and Swanson",Malibu,1984,Hatchback,65.83
+74317,Mckenzie-Glenn,Escape,1993,Hatchback,69.47
+79,Boyer-Donaldson,Accord,1995,Hatchback,215.28
+46719,"Cantu, Gibson and Le",Sentra,2023,Sedan,74.66
+10918,"Hays, Wilson and Williams",Malibu,1984,Sedan,233.39
+99520,"Bowen, Melendez and Avila",Malibu,1974,Hatchback,260.84
+75712,"Schultz, Armstrong and Barker",CR-V,1983,Hatchback,53.56
+77065,"Martin, Baker and Jackson",Accord,1996,Sedan,148.33
+10918,Robertson-Barnes,Focus,2004,Van,135.83
+26726,"Joseph, Lowe and Padilla",Impala,1989,Hatchback,168.61
+64976,Nunez and Sons,Tucson,1981,Hatchback,84.18
+57988,Simmons Group,Optima,1998,Sedan,137.87
+7241,"Silva, Warner and Mitchell",CR-V,1986,Hatchback,54.18
+6157,"Welch, Jackson and King",Fusion,2010,SUV,294.14
+9545,"Thompson, Young and Gonzales",Impala,1993,Truck,243.89
+83099,Sutton Group,Cruze,1979,Truck,190.14
